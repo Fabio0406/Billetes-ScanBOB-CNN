@@ -1,2 +1,7 @@
 ./modelo/modelo.keras
 ./modelo/pesos.weights.h5
+
+# Secretos y archivos generados (no subir)
+__pycache__/
+*.pyc
+modelo/
